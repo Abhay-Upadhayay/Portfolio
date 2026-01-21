@@ -19,7 +19,8 @@ const Projects = () => {
           title="This PortFolio"
           main="This is a Responsive portfolio website created using React , TailwindCSS , JavaScript."
           bannerImg={portfolioBanner}
-          code={`https://github.com/Abhay-Upadhayay`}
+          demo={`https://portfolio-phi-kohl-83.vercel.app/`}
+          code={`https://github.com/Abhay-Upadhayay/Portfolio`}
         />
       </div>
     </div>

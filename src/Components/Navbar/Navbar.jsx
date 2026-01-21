@@ -17,11 +17,6 @@ const Navbar = () => {
             About
           </li>
         </a>
-        <a href="#Experience">
-          <li className="text-md transition-all duration-300 p-1 md:p-0">
-            Experience
-          </li>
-        </a>
         <a href="#Projects">
           <li className="text-md transition-all duration-300 p-1 md:p-0">
             Projects
